@@ -1,3 +1,17 @@
+初始模組(master)中砍掉 : 
+
+* **Processing Modules**
+1. apk_verification ( 需要 google 帳號連網)
+    比較上傳的 apk 是否與 play 商店中的相同
+2. cuckoo ( 本身功能即需聯網 )
+3. cuckoo_modified ( 本身功能即需聯網 )
+4. virustotal_public ( API key 需聯網 )
+5. triage ( API key 需聯網 )
+6. cutthecrap	( Require Microsoft Office )
+7. lookyloo ( 功能性因素 :  List all redirections from an URL request )
+8. stringsifter ( 裝不起來 ) 
+
+
 # fame_modules
 
 Community modules for FAME.
