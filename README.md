@@ -9,7 +9,8 @@
 5. triage ( API key 需聯網 )
 6. cutthecrap	( Require Microsoft Office )
 7. lookyloo ( 功能性因素 :  List all redirections from an URL request )
-
+8. url_download
+9. url_preview
 
 
 # fame_modules
